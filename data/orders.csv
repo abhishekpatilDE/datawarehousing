@@ -1,0 +1,7 @@
+OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,ProductID,ProductName,ProductCategory,RegionID,RegionName,Country,Quantity,UnitPrice,TotalAmount
+ORD001,2025-10-25,CUST001,John Doe,john.doe@email.com,PRD001,iPhone 15,Electronics,R001,Europe West,Germany,2,1200.0,2400.0
+ORD001,2025-10-25,CUST001,John Doe,john.doe@email.com,PRD001,iPhone 15,Electronics,R001,Europe West,Germany,2,1200.0,2400.0
+ORD002,2025-10-26,CUST002,Alice Smith,alice.smith@email.com,PRD002,AirPods Pro,Electronics,R002,North Europe,Sweden,1,250.0,250.0
+ORD003,2025-10-27,CUST003,Bob Lee,bob.lee@email.com,PRD003,Nike Shoes,Footwear,R003,South Europe,Italy,3,100.0,300.0
+ORD002,2025-10-26,CUST002,Alice Smith,alice.smith@email.com,PRD002,AirPods Pro,Electronics,R002,North Europe,Sweden,1,250.0,250.0
+ORD003,2025-10-27,CUST003,Bob Lee,bob.lee@email.com,PRD003,Nike Shoes,Footwear,R003,South Europe,Italy,3,100.0,300.0
