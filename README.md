@@ -1,6 +1,8 @@
 # datawarehousing
 DataWarehousing Concepts
 
+OPEN SCHEMA.PY FOR DATABRICKS EASY CODE AND UNDERSTANDING 
+
 ## Run locally
 
 These instructions show how to create a virtual environment, install Python dependencies (including `pyspark`), and run the `incrementload.py` script from this repository.
